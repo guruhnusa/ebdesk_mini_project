@@ -2,6 +2,10 @@
 
 A Flutter application implementing **Clean Architecture** to track work log focus and display analytics using interactive charts. The app follows a structured approach with **Data, Domain, and Presentation layers**, ensuring scalability and maintainability.
 
+### 🔹 Video Demo
+$ https://drive.google.com/file/d/1Xq_0WJIz71Ci-XshiW8RK1v7PXwHq4o4/view?usp=sharing
+
+
 ### 🔹 Architecture
 ✅ **Clean Architecture** (Data, Domain, Presentation, Controllers)  
 ✅ **Riverpod** for state management  
